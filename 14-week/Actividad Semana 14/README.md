@@ -1,0 +1,3 @@
+## Dashboard & Insight
+
+This dashboard analyzes traffic accident records from 2012 to 2022 using Power BI. The visualizations show accident distribution by commune, accident trends over time, and the most frequent accident types. One of the main findings is that Commune 6 recorded the highest number of traffic accidents. The analysis also shows that collisions with moving objects were the most common accident type. Based on these results, road safety strategies should focus on high-risk areas and promote actions to reduce the most frequent types of accidents. A date hierarchy with drill-down functionality and interactive slicers were included to improve data exploration and analysis.
